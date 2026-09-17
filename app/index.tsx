@@ -17,7 +17,7 @@ export default function Index() {
     >
       <Text>cihuy</Text>
       {/* <VariabelSoal /> */}
-      {/* <KondisiSoal /> */}
+      <KondisiSoal />
       {/* <LoopingSoal /> */}
       {/* <ArraySoal /> */}
       {/* <FungsiSoal /> */}
